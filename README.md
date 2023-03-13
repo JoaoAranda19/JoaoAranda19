@@ -1,4 +1,4 @@
-<h1 align="center">Salve João Aranda</h1>
+<h1 align="center">Salve, meu nome é João Aranda</h1>
 <h3 align="center">Prazer, tenho 19 anos de idade, moro em Londrina-PR e estou cursando Engenharia de Software na unfil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoaranda19&label=Profile%20views&color=0e75b6&style=flat" alt="joaoaranda19" /> </p>
@@ -24,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoaranda19&show_icons=true&locale=en" alt="joaoaranda19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoaranda19&" alt="joaoaranda19" /></p>
-
