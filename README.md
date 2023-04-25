@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jv17062003@gmail.com**
 
-- ⚡ Fun fact **sou bastante curioso na área da comutação, sou calmo e gosto de aprender coisas novas**
+- ⚡ Fun fact **sou bastante curioso na área da computação, sou calmo e gosto de aprender coisas novas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
